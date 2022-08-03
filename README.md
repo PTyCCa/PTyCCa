@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://www.pngfind.com/pngs/b/123-1235246_youtube-ndash-logos-brands-and-logotypes-youtube-logo.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Slack" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />][slack]
-[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />][slack]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />][kaggle]
 
 
 <br />
