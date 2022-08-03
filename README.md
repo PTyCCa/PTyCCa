@@ -56,5 +56,5 @@
 [twitter]: https://twitter.com/ElvenAle
 [youtube]: https://youtube.com/sergiusvorobiev
 [slack]: https://ptycca.slack.com
-[kaggle]: https://ptycca.slack.com
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[kaggle]:https://www.kaggle.com/sergiusvorobiev
+[webdevplaylist]: https://www.kaggle.com/sergiusvorobiev
